@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Hugging Face model cache (downloaded on first run, ~1GB - do not commit)
+# Linux/macOS: ~/.cache/huggingface
+# Windows: %USERPROFILE%\.cache\huggingface
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

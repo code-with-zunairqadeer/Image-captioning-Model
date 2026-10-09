@@ -1,0 +1,7 @@
+# Core ML stack
+transformers>=4.40
+torch>=2.0
+pillow>=10.0
+
+# Web UI
+gradio>=4.0
